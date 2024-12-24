@@ -1,3 +1,15 @@
+
+// Design a class named Employee with the following private attributes:
+// • name (string): Represents the name of the employee.
+// • employeeID (string): Represents the employee's ID.
+// • department (string): Represents the department in which the employee
+// works.
+// • basicSalary (double): Represents the basic salary of the employee.
+// Write a constructor that initializes these attributes. Create a method named
+// calculateGrossSalary() that calculates and returns the gross salary by adding a fixed
+// bonus of 20% of the basic salary. Add a public method displayDetails() that displays the
+// employee's details, including the gross salary.
+
 #include <iostream>
 #include <string>
 using namespace std;
